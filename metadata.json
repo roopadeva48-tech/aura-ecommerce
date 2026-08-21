@@ -1,0 +1,6 @@
+{
+  "name": "Aura Artisan Jewelry",
+  "description": "Luxury handmade jewelry boutique with real-time inventory synchronization, dynamic stock reservations, custom ring sizing and engraving, and secure multi-method checkout payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
